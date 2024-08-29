@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jessica-palacios-yamakawa-a9337052/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
