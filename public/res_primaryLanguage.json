@@ -81,11 +81,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "YBUSA",
+        "title": "Back-End Developer",
+        "years": "09.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "PostGreSQL"
         ],
         "technologies": [
           "REST API",
